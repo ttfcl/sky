@@ -126,7 +126,7 @@ nav {
 .bodySection {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(image/bg.png);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/madoyo-78d70.appspot.com/o/sky%2Fbg.png?alt=media&token=bf8895fe-a566-4a07-94f6-4b33948e394f);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -136,7 +136,7 @@ nav {
 .bodySection2 {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(image/bg2.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/madoyo-78d70.appspot.com/o/sky%2Fbg2.jpg?alt=media&token=16214971-ee0b-426a-8f18-b6ce8ef8ff99);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
