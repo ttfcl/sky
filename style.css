@@ -111,8 +111,10 @@ nav {
     display: block;
     text-align: center;
     color: black;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
 }
 .test > a:hover {
     color: #fbaf3f;
