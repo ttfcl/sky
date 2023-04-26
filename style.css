@@ -128,10 +128,11 @@ nav {
 .bodySection {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/madoyo-78d70.appspot.com/o/sky%2Fbg.png?alt=media&token=bf8895fe-a566-4a07-94f6-4b33948e394f);
+    background-image: url(image/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
     text-align: center;
     font-family: 'gfont';
 }
