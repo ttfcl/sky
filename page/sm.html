@@ -91,6 +91,17 @@
     </div>
   </div>
   <footer>
+    <div id="reset" style="color: white;">
+      초기화
+    </div>
+    <script>
+      let reset = document.querySelector("#reset")
+      reset.onclick = () => {
+        localStorage.clear()
+        alert("초기화완료")
+        location.href="../index.html"
+      }
+    </script>
     <div class="footerText">
       출장마사지 전문 하늘 출장마사지
     </div>
